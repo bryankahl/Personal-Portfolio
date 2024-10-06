@@ -6,7 +6,7 @@ This project is a personal portfolio website that I created to showcase my skill
 
 - **Navigation**: User-friendly navigation bar for easy browsing through different sections.
 - **Resume Access**: Direct link to resume for easy viewing and download.
-- **Project Showcase**: Links to GitHub profile, providing access to my coding projects.
+- **Project Showcase**: Direct Link to GitHub profile, providing access to my coding projects.
 - **Contact Information**: Convenient access to my LinkedIn profile, email, and phone number for any networking opportunities.
 - **Responsive Design**: Ensures optimal viewing experience across various devices, catering to the preferences of my future recruiters and employers.
 
@@ -18,4 +18,4 @@ This project is a personal portfolio website that I created to showcase my skill
 
 ## Usage
 
-In order to view my website, open the `index.html` file in any compatible web browser.
+To view my website, open the `index.html` file in any valid web browser.
